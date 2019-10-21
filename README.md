@@ -15,3 +15,10 @@ cd parentDirectoryForDHLAB
 ## Check status of local repo
 cd DHLABpath
 git status
+
+
+- fetch
+- push
+- pull
+- log
+- stash
